@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Warm-up | Tier 3 | 20h | 2 |
+| Warm-up | Tier 3 | 24h | 2 |
 
 ## Contents
 
@@ -47,7 +47,7 @@ We defined a custom, offline physical media player built around the DFPlayer Min
 
 ### 2026-10-03 — I design the 3d case in Blender,
 
-**10h**
+**14h**
 
 I design the 3d case in Blender,
 
@@ -74,3 +74,16 @@ n to trigger specific sound files, adjust volume levels, and manage playback mod
 ![Screenshot 2026-10-03 100634](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/6e13ea0eea879ad013c905aefe637b0aa8b4a36649f46db6492227b59d45d46e.png)
 
 ![Screenshot 2026-10-03 100616](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/e0ca51077c7fe1b3d2694a5a92a026a2e2c669cc0ca063aa88875bce44fe2f56.png)
+
+Taking a break, watching a movie,
+
+![Screenshot 2026-10-03 175245](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/9b29702df6b360e73533dbfa52e2b7fe980c6d6a1301062baa9b5f08cec4a2f7.png)
+
+ and staying hydrated
+
+![photo_2026-10-03_17-50-45](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/42e28d6167ab2ef3dddeb2ca64e2377cba44171a5eeffd38c0c1c74ef9497a9b.jpg)
+
+![Screenshot 2026-03-11 194430](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/e2de736b53a916c63677795e8fdd904ee27103055462b29ff7b70ec904dc4bf7.png)
+![photo_2026-10-03_17-50-41](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/dc7d03e0e056f828b351fde8ec96e4934ed5eeb9729d1cbbaa64628d4ff88714.jpg)
+
+![Screenshot 2026-10-03 175245](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/9b29702df6b360e73533dbfa52e2b7fe980c6d6a1301062baa9b5f08cec4a2f7.png)
