@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-02 — We defined a custom, offline physical media player built around the DFPlayer Mini MP3 module and an Arduino Nano Every. The design features physical tactile push-buttons for media navigation, a 1.3-in](#2026-10-02-we-defined-a-custom-offline-physical-media-player)
-2. [2026-10-03 — I design the 3d case in Blender,](#2026-10-03-i-design-the-3d-case-in-blender)
+2. [2026-10-03 — I designed the 3d case in Blender,](#2026-10-03-i-designed-the-3d-case-in-blender)
 
 ## Design
 
@@ -45,11 +45,11 @@ We defined a custom, offline physical media player built around the DFPlayer Min
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/c4b2f0b0399154f489dd68fa43260a8d5f0f9849d99d33e4692d7cbcf68391b5.png)
 
-### 2026-10-03 — I design the 3d case in Blender,
+### 2026-10-03 — I designed the 3d case in Blender,
 
 **14h**
 
-I design the 3d case in Blender,
+I designed the 3d case in Blender,
 
 ![Screenshot 2026-10-03 153901](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/98ee6446ce9297611ece8ff47e3375b88fe4d9c39769e0f7b3c8ec9be90208a7.png)
 
@@ -87,3 +87,5 @@ Taking a break, watching a movie,
 ![photo_2026-10-03_17-50-41](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/dc7d03e0e056f828b351fde8ec96e4934ed5eeb9729d1cbbaa64628d4ff88714.jpg)
 
 ![Screenshot 2026-10-03 175245](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/9b29702df6b360e73533dbfa52e2b7fe980c6d6a1301062baa9b5f08cec4a2f7.png)
+
+![Screenshot 2026-10-03 153901](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vp8U3T9hf8Kpw3b71VJfYUzVmPztuLRd/98ee6446ce9297611ece8ff47e3375b88fe4d9c39769e0f7b3c8ec9be90208a7.png)
